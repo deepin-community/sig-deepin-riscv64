@@ -55,3 +55,5 @@ ps: 章程目前还不完善，有兴趣的同学可以加入进来讨论。
 ## 相关链接
 
 - [GitHub 上的小组团队](https://github.com/orgs/deepin-community/teams/deepin-riscv64)
+
+5.
