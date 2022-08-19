@@ -15,7 +15,7 @@ jobs:
         uses: deepin-community/contributor-assistant-github-action@master 
 
         env:
-          APP_ID: 215996
+          APP_ID: 229710
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           APP_PRIVATE_KEY: ${{ secrets.APP_PRIVATE_KEY }}
 
@@ -24,7 +24,7 @@ jobs:
           path-to-document: 'https://github.com/deepin-community/cla/blob/master/cla.md' # e.g. a CLA or a DCO document
           # branch should not be protected
           branch: master
-          allowlist: deepin-community-release-test[bot]
+          allowlist: deepin-community-ci-bot[bot]
 
          #below are the optional inputs - If the optional inputs are not given, then default values will be taken
           remote-organization-name: deepin-community
