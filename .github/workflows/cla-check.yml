@@ -28,7 +28,7 @@ jobs:
 
          #below are the optional inputs - If the optional inputs are not given, then default values will be taken
           remote-organization-name: deepin-community
-          remote-repository-name: cla
+          remote-repository-name: cla-data
           #create-file-commit-message: 'For example: Creating file for storing CLA Signatures'
           #signed-commit-message: 'For example: $contributorName has signed the CLA in #$pullRequestNo'
           custom-notsigned-prcomment: '<br/>
