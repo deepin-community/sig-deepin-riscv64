@@ -52,6 +52,23 @@ ps: 章程目前还不完善，有兴趣的同学可以加入进来讨论。
 
 [邮件列表](https://www.freelists.org/list/deepin-riscv64)、[Telegram](https://t.me/+gayVJlNnqXNlYzM1)
 
+## 目前适配的硬件平台
+
+基于StarFive JH7100 SoC [VisionFive](https://github.com/starfive-tech/VisionFive/blob/main/README.md)  
+
+能够成功运行的镜像：[Debian-DDE-Beta](https://drive.google.com/file/d/1cboa9MOn6tYSPGa1fnTa3ozG9sTgPi5X/view) 这是一个用于验证的img镜像，目前还有很多问题
+非常感谢 [HougeLangley](https://github.com/HougeLangley) 的做相关工作, 这个镜像就是基于 HougeLangley制作的Debian-LXDE镜像修改而来
+
+用户名: star
+密码: star
+root:root
+
+## 配置riscv64 的构建环境
+
+[riscv64-build-environmen](https://github.com/linuxdeepin/deepin-riscv/blob/master/riscv64-build-environment-zh_CN.md)
+
+
+
 ## 相关链接
 
 - [GitHub 上的小组团队](https://github.com/orgs/deepin-community/teams/deepin-riscv64)
