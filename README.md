@@ -54,14 +54,18 @@ ps: 章程目前还不完善，有兴趣的同学可以加入进来讨论。
 
 ## 目前适配的硬件平台
 
-基于StarFive JH7100 SoC [VisionFive](https://github.com/starfive-tech/VisionFive/blob/main/README.md)  
+1.StarFive JH7100 SoC [VisionFive](https://github.com/starfive-tech/VisionFive/blob/main/README.md)  
+2. TH1520 light-a
 
-能够成功运行的镜像：[Debian-DDE-Beta](https://drive.google.com/file/d/1cboa9MOn6tYSPGa1fnTa3ozG9sTgPi5X/view) 这是一个用于验证的img镜像，目前还有很多问题
-非常感谢 [HougeLangley](https://github.com/HougeLangley) 的做相关工作, 这个镜像就是基于 HougeLangley制作的Debian-LXDE镜像修改而来
+## 镜像地址
+1. 官方镜像地址：https://cdimage.deepin.com/RISC-V/
+2. 日构建镜像地址： https://cirrus-ci.com/github/deepin-community/deepin-riscv-board 
 
-用户名: star
-密码: star
-root:root
+## 仓库地址
+1. 主仓地址
+deb [trusted=yes] https://ci.deepin.com/repo/deepin/deepin-riscv/deepin-stage1/ beige main
+2. TH1520补充仓库地址
+deb [trusted=yes] https://ci.deepin.com/repo/deepin/deepin-riscv/deepin-addon/ beige main
 
 ## 配置riscv64 的构建环境
 
