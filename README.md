@@ -18,7 +18,7 @@
 
 目标： 为deepin操作系统适配RISC-V架构,为RISC-V架构芯片提供更多的桌面应用。
 
-活动范围：[社区论坛](https://bbs.deepin.org/)、[邮件列表](https://www.freelists.org/list/deepin-riscv64)、[Telegram](https://t.me/+gayVJlNnqXNlYzM1)
+活动范围：[社区论坛](https://bbs.deepin.org/)、[邮件列表](https://www.freelists.org/list/deepin-riscv64)、[Telegram](https://t.me/+gayVJlNnqXNlYzM1) 、[matrix](https://matrix.to/#/#deepin-risc-v:matrix.org)
 
 ## 如何加入
 
@@ -54,8 +54,9 @@ ps: 章程目前还不完善，有兴趣的同学可以加入进来讨论。
 
 ## 目前适配的硬件平台
 
-1.StarFive JH7100 SoC [VisionFive](https://github.com/starfive-tech/VisionFive/blob/main/README.md)  
+1. StarFive JH7100 SoC [VisionFive](https://github.com/starfive-tech/VisionFive/blob/main/README.md)  
 2. TH1520 light-a
+3. Unmatched
 
 ## 镜像地址
 1. 官方镜像地址：https://cdimage.deepin.com/RISC-V/
