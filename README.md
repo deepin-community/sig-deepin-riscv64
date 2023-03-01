@@ -64,9 +64,9 @@ ps: 章程目前还不完善，有兴趣的同学可以加入进来讨论。
 
 ## 仓库地址
 1. 主仓地址
-deb [trusted=yes] https://ci.deepin.com/repo/deepin/deepin-riscv/deepin-stage1/ beige main
+deb [trusted=yes] https://ci.deepin.com/repo/deepin/deepin-ports/deepin-stage1/ beige main
 2. TH1520补充仓库地址
-deb [trusted=yes] https://ci.deepin.com/repo/deepin/deepin-riscv/deepin-addon/ beige main
+deb [trusted=yes] https://ci.deepin.com/repo/deepin/deepin-ports/deepin-addon/ beige main
 
 ## 配置riscv64 的构建环境
 
